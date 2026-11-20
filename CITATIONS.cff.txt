@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset protocol, please cite it as below."
+title: "Response-Aware-NTC-DSP: Response-Aware Thermal Transient Detection Pipeline"
+authors:
+  - family-names: "Panda"
+    given-names: "Devashrit"
+repository-code: "https://github.com/Innovatia-ignis-deva/Response-Aware-NTC-DSP"
+license: "Apache-2.0"
+version: "2.0.0"
+date-released: "2026-11-20"
